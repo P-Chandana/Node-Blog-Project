@@ -22,6 +22,7 @@ $ npm run startdev
 * jsdom
 * marked
 * method-override
+* slugify
 
 
 
