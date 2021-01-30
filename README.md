@@ -1,6 +1,6 @@
 # Node-Chat-App 
 
-### Usage
+### Install Dependencies
 ```
 $ npm i
 ```
@@ -9,5 +9,7 @@ run with Nodemon
 $ npm run startdev
 ```
 
-###### Visit http://localhost:5000
+### Visit at http://localhost:5000
+
+## Technologies Used:
 
