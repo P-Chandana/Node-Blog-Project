@@ -18,4 +18,6 @@ $ npm run startdev
 * ejs
 * nodemon
 * mongoose
+* dompurify
+
 
