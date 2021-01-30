@@ -20,6 +20,9 @@ $ npm run startdev
 * mongoose
 * dompurify
 * jsdom
+* marked
+
+
 
 
 
