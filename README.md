@@ -19,5 +19,7 @@ $ npm run startdev
 * nodemon
 * mongoose
 * dompurify
+* jsdom
+
 
 
