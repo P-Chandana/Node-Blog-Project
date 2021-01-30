@@ -13,3 +13,9 @@ $ npm run startdev
 
 ## Technologies Used:
 
+* Node.js
+* Express.js 
+* ejs
+* nodemon
+* mongoose
+
