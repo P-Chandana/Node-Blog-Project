@@ -21,6 +21,8 @@ $ npm run startdev
 * dompurify
 * jsdom
 * marked
+* method-override
+
 
 
 
