@@ -1,4 +1,4 @@
-# Node-Chat-App 
+# Node-Blog
 
 ### Install Dependencies
 ```
